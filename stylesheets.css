@@ -1,0 +1,34 @@
+#heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80%;
+    display: block;
+    margin-left: 26%;
+    width: 50%;
+}
+abbr{
+    text-decoration: none;
+    background-color: aquamarine;
+}
+a {
+    background-color: antiquewhite;
+}
+#heading2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: slategray;
+}
+span{
+    font-size: 80%;
+    font-style: italic;
+}
+OL.withUpperRoman {
+    list-style-type: upper-roman;
+    font-size: 85%;
+}
+UL.square{list-style-type: square;}
+table{	h1:text-align center;
+		table:text-align center;
+}
