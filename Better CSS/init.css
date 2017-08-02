@@ -1,0 +1,11 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,
+abbr,address,sub,sup,form,label,ol,ul,li,tbody,tfoot,thead,
+tr,th,figure,footer,header,nav,audio,video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
